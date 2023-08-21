@@ -28,3 +28,7 @@
 - Calculate the total cost for all customers and all subscribers
 - Analyze how often bikes are being rented (morning, afternoon, evening), and find the rental frequency for each hour of the day
 - Find if there is a relation between start times and start stations
+
+# Notes:
+- The project was developed in the Databricks (Community edition) environment. Hence, for use in different environments the codes will need to be modified.
+- Because of the large file size some of the notebooks are uploaded us HTML files.
